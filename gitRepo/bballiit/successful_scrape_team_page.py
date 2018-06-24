@@ -1,7 +1,7 @@
 import re
 
-file_needed  = open("C:/Users/lchen/Desktop/Basketball_Project_Tables/firstpage_to_solve.txt","r")
-file_needed1 = open("C:/Users/lchen/Desktop/Basketball_Project_Tables/a_test.txt","r")
+file_needed  = open("/Users/dilruba_p/Desktop/table1.txt","r")
+
 lines = []
 
 for line in file_needed:
